@@ -4,5 +4,18 @@
   "artist": "Webtoon",
   "author": "Webtoon",
   "cover": "https://drive.google.com/file/d/1Kb6gXX1AemkiYqzB9XK8xOAdA8lYQa6G/view?usp=share_link",
-  "chapters": {}
+  "chapters": {
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1697702963",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1hwNKH3zn_y75Slfv28RejjCZzqmMgB8N",
+          "https://drive.google.com/uc?export=view&id=14wnX7caqqXvv-cgXbI8Mb34cL4A4AB9Z",
+          "https://drive.google.com/uc?export=view&id=1CGmQvs3zZlnd7IoJG7hYRAN4vIZm4mUr"
+        ]
+      }
+    }
+  }
 }
