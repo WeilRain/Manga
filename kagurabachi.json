@@ -4,5 +4,34 @@
   "artist": "Hokazono Takeru",
   "author": "Hokazono Takeru",
   "cover": "https://drive.google.com/file/d/1o9q-G7DQlkt_kNH_xUKq7m9YbAIWoruw/view?usp=share_link",
-  "chapters": {}
+  "chapters": {
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1697806481",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1bbtxQJ1_Co6qucKW00RMSKw_ZEGP77g8",
+          "https://drive.google.com/uc?export=view&id=1gEahCtqV1M4N_nr1DMEjej_tbN7SZ2Uz",
+          "https://drive.google.com/uc?export=view&id=1APJNevHLc42n4Omsoh5ccgnpt5U6C3eO",
+          "https://drive.google.com/uc?export=view&id=17vgdgEx_IdA4d6WqTF1y1bhJ2g1bQ4P5",
+          "https://drive.google.com/uc?export=view&id=1OAdY6IcTfj5KVGiscxcvHAIjnqH6zkKY",
+          "https://drive.google.com/uc?export=view&id=1ZuEVditNHQ1cc9FyR_Prxj-_6SCMH9YO",
+          "https://drive.google.com/uc?export=view&id=1_bTN9yjFFxmUmnyWWd6ujGypeekcmV4q",
+          "https://drive.google.com/uc?export=view&id=1rTuyLK3BJ7HjYxEIVuzFaZljlesC-uis",
+          "https://drive.google.com/uc?export=view&id=18Y4D8_Cb3Jp-lXV5IhpmWuWnNp2-DUHe",
+          "https://drive.google.com/uc?export=view&id=1okpijvxl47NaKmSE1JpO8-xR0bjCMMrw",
+          "https://drive.google.com/uc?export=view&id=1okpijvxl47NaKmSE1JpO8-xR0bjCMMrw",
+          "https://drive.google.com/uc?export=view&id=1R8Jik08ssmjJAS7GQrZml-dZT6wX0HUG",
+          "https://drive.google.com/uc?export=view&id=1kxz92UmlYxaLj_ETSWGISL03wwCbWz0x",
+          "https://drive.google.com/uc?export=view&id=1LKHjawe9Yo_iaSdWWBskfJ_h0CCsaAHj",
+          "https://drive.google.com/uc?export=view&id=1LKHjawe9Yo_iaSdWWBskfJ_h0CCsaAHj",
+          "https://drive.google.com/uc?export=view&id=1tbBG8-x_x5uST3UZOD6oCXaf5oZ6SGLK",
+          "https://drive.google.com/uc?export=view&id=1wUqG7ZZ9_IbdtUAA0vnZUdW9ePuBEopj",
+          "https://drive.google.com/uc?export=view&id=1Lulu4Zw8snE1O9089M540pV29yOServ6",
+          "https://drive.google.com/uc?export=view&id=1XWRerPkMgJP1B-6d2d7Jvk6zCqYmjGQp"
+        ]
+      }
+    }
+  }
 }
