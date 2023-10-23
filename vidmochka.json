@@ -4,5 +4,19 @@
   "artist": "Marucomics",
   "author": "Shuroop",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1698071474",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1GGR_16sPE1kBtH7N_HN5Gi-EBevVv1qP",
+          "https://drive.google.com/uc?export=view&id=1uOSk0l5nWKBanIsAzPefu6x7X8QfoV5k",
+          "https://drive.google.com/uc?export=view&id=1EdQ_Y_WwnTWdAqNxReH0HxWGNHdYtKOK",
+          "https://drive.google.com/uc?export=view&id=1RPHvDYkiLT-NKZoXiFI4FxqjNeJsLIqp"
+        ]
+      }
+    }
+  }
 }
