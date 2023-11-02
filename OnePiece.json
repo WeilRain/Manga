@@ -4,5 +4,29 @@
   "artist": "ODA",
   "author": "ODA",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1097": {
+      "title": "1097",
+      "volume": "108",
+      "last_updated": "1698915900",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1EwQbu9WHd6XG9b7ZJI1rY13Y1CNUDPaT",
+          "https://drive.google.com/uc?export=view&id=1xN9Ei1qgb3RhYNyNsPjm0o6Azv40HLe9",
+          "https://drive.google.com/uc?export=view&id=1uOow26YQAc5RgIgjJ2t-lin_dx4fkh0z",
+          "https://drive.google.com/uc?export=view&id=1K9cipV7L5mxm3vBNAb0qLU_xbXD49iik",
+          "https://drive.google.com/uc?export=view&id=1CBxQOc0U3EGaGW0TH6iqvN31cOKLaTsO",
+          "https://drive.google.com/uc?export=view&id=1wHvxKZwFo-lY1YUM72LjtS11oguKGNAq",
+          "https://drive.google.com/uc?export=view&id=1BWqE0Xqk76jkgS8VvkKtx9c9-2CWMlgs",
+          "https://drive.google.com/uc?export=view&id=16g_B65EVvJz-F-qrS72AlBDVTCjzLpBj",
+          "https://drive.google.com/uc?export=view&id=1fN5DSYj_NnlHy8v_gZpwsed5OL87wlB8",
+          "https://drive.google.com/uc?export=view&id=1j5CdPBqkgBHHKHS3sN9ii2illeddTkxv",
+          "https://drive.google.com/uc?export=view&id=1hUWwES8VN6WHLZwEqt81t52TvBZ25jf8",
+          "https://drive.google.com/uc?export=view&id=1T2eb4wCVGEyIMHUAjEyhBOcRCyAW2Lgn",
+          "https://drive.google.com/uc?export=view&id=1GNoHRCZLFY_dgSDGDPld-OrwiWBEtHXB",
+          "https://drive.google.com/uc?export=view&id=11VYMF2xXHR3BUGMEJ8DJddQyhy0crxPN"
+        ]
+      }
+    }
+  }
 }
