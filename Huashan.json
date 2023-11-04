@@ -4,5 +4,19 @@
   "artist": "Umc",
   "author": "Umc",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1699109690",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1Q_CnBJAbvzmBwfOjpp5GvDpQmCJmJPUi",
+          "https://drive.google.com/uc?export=view&id=139YyXsr7o3nN_yqh2VWLjlyO9B-SrakP",
+          "https://drive.google.com/uc?export=view&id=1kxtzgTi-4hau7UeeE9lUqyj9gx6fKpk5",
+          "https://drive.google.com/uc?export=view&id=1imXnzKbgF-RpGaTrq-2zThnLgoQosKaU"
+        ]
+      }
+    }
+  }
 }
